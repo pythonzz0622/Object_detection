@@ -1,3 +1,4 @@
 # Object_detection
-object_detection_tutorial
-# Object_detection
+
+1. mAP
+2. Faster-RCNN
