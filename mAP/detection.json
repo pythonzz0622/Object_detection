@@ -1,0 +1,370 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "buffalo",
+            "super_category": "animal"
+        },
+        {
+            "id": 1,
+            "name": "elephant",
+            "super_category": "animal"
+        },
+        {
+            "id": 2,
+            "name": "rhino",
+            "super_category": "animal"
+        },
+        {
+            "id": 3,
+            "name": "zebra",
+            "super_category": "animal"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "022.jpg",
+            "height": 480,
+            "width": 640
+        },
+        {
+            "id": 2,
+            "file_name": "099.jpg",
+            "height": 600,
+            "width": 800
+        },
+        {
+            "id": 3,
+            "file_name": "199.jpg",
+            "height": 453,
+            "width": 640
+        },
+        {
+            "id": 4,
+            "file_name": "290.jpg",
+            "height": 387,
+            "width": 620
+        },
+        {
+            "id": 5,
+            "file_name": "297.jpg",
+            "height": 540,
+            "width": 960
+        },
+        {
+            "id": 6,
+            "file_name": "299.jpg",
+            "height": 504,
+            "width": 800
+        },
+        {
+            "id": 7,
+            "file_name": "317.jpg",
+            "height": 1333,
+            "width": 2000
+        },
+        {
+            "id": 8,
+            "file_name": "338.jpg",
+            "height": 837,
+            "width": 2000
+        },
+        {
+            "id": 9,
+            "file_name": "363.jpg",
+            "height": 480,
+            "width": 852
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "category_id": 3,
+            "bbox": [
+                213,
+                181,
+                628,
+                446
+            ],
+            "image_id": 1,
+            "confidence_score": 0.7
+        },
+        {
+            "id": 2,
+            "category_id": 2,
+            "bbox": [
+                181,
+                355,
+                612,
+                582
+            ],
+            "image_id": 2,
+            "confidence_score": 0.88
+        },
+        {
+            "id": 3,
+            "category_id": 2,
+            "bbox": [
+                373,
+                39,
+                770,
+                407
+            ],
+            "image_id": 2,
+            "confidence_score": 0.91
+        },
+        {
+            "id": 4,
+            "category_id": 1,
+            "bbox": [
+                42,
+                96,
+                265,
+                386
+            ],
+            "image_id": 3,
+            "confidence_score": 0.48
+        },
+        {
+            "id": 5,
+            "category_id": 1,
+            "bbox": [
+                30,
+                1,
+                586,
+                272
+            ],
+            "image_id": 4,
+            "confidence_score": 0.31
+        },
+        {
+            "id": 6,
+            "category_id": 3,
+            "bbox": [
+                257,
+                177,
+                460,
+                366
+            ],
+            "image_id": 4,
+            "confidence_score": 0.5
+        },
+        {
+            "id": 7,
+            "category_id": 3,
+            "bbox": [
+                466,
+                157,
+                594,
+                282
+            ],
+            "image_id": 4,
+            "confidence_score": 0.68
+        },
+        {
+            "id": 8,
+            "category_id": 0,
+            "bbox": [
+                138,
+                173,
+                335,
+                330
+            ],
+            "image_id": 5,
+            "confidence_score": 0.33
+        },
+        {
+            "id": 9,
+            "category_id": 0,
+            "bbox": [
+                499,
+                286,
+                791,
+                455
+            ],
+            "image_id": 5,
+            "confidence_score": 0.77
+        },
+        {
+            "id": 10,
+            "category_id": 3,
+            "bbox": [
+                8,
+                250,
+                110,
+                416
+            ],
+            "image_id": 5,
+            "confidence_score": 0.12
+        },
+        {
+            "id": 11,
+            "category_id": 3,
+            "bbox": [
+                98,
+                365,
+                232,
+                487
+            ],
+            "image_id": 5,
+            "confidence_score": 0.45
+        },
+        {
+            "id": 12,
+            "category_id": 3,
+            "bbox": [
+                242,
+                291,
+                329,
+                421
+            ],
+            "image_id": 5,
+            "confidence_score": 0.93
+        },
+        {
+            "id": 13,
+            "category_id": 1,
+            "bbox": [
+                407,
+                256,
+                689,
+                419
+            ],
+            "image_id": 6,
+            "confidence_score": 0.48
+        },
+        {
+            "id": 14,
+            "category_id": 3,
+            "bbox": [
+                154,
+                77,
+                502,
+                334
+            ],
+            "image_id": 6,
+            "confidence_score": 0.71
+        },
+        {
+            "id": 15,
+            "category_id": 2,
+            "bbox": [
+                93,
+                241,
+                212,
+                425
+            ],
+            "image_id": 6,
+            "confidence_score": 0.82
+        },
+        {
+            "id": 16,
+            "category_id": 3,
+            "bbox": [
+                143,
+                775,
+                543,
+                1067
+            ],
+            "image_id": 7,
+            "confidence_score": 0.34
+        },
+        {
+            "id": 17,
+            "category_id": 3,
+            "bbox": [
+                584,
+                696,
+                1025,
+                1051
+            ],
+            "image_id": 7,
+            "confidence_score": 0.56
+        },
+        {
+            "id": 18,
+            "category_id": 3,
+            "bbox": [
+                1075,
+                677,
+                1439,
+                1036
+            ],
+            "image_id": 7,
+            "confidence_score": 0.62
+        },
+        {
+            "id": 19,
+            "category_id": 3,
+            "bbox": [
+                1523,
+                589,
+                1894,
+                881
+            ],
+            "image_id": 7,
+            "confidence_score": 0.78
+        },
+        {
+            "id": 20,
+            "category_id": 3,
+            "bbox": [
+                762,
+                492,
+                1307,
+                814
+            ],
+            "image_id": 8,
+            "confidence_score": 0.47
+        },
+        {
+            "id": 21,
+            "category_id": 3,
+            "bbox": [
+                1046,
+                386,
+                1588,
+                804
+            ],
+            "image_id": 8,
+            "confidence_score": 0.33
+        },
+        {
+            "id": 22,
+            "category_id": 3,
+            "bbox": [
+                1711,
+                1,
+                1999,
+                352
+            ],
+            "image_id": 8,
+            "confidence_score": 0.89
+        },
+        {
+            "id": 23,
+            "category_id": 1,
+            "bbox": [
+                344,
+                48,
+                1182,
+                490
+            ],
+            "image_id": 8,
+            "confidence_score": 0.72
+        },
+        {
+            "id": 24,
+            "category_id": 0,
+            "bbox": [
+                280,
+                69,
+                696,
+                435
+            ],
+            "image_id": 9,
+            "confidence_score": 0.92
+        }
+    ]
+}
